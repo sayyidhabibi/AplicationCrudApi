@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicationCrudApi</string>
+    <string name="angkatan">Angkatan : </string>
+    <string name="jurusan">Jurusan :</string>
+    <string name="nama">Nama :</string>
+    <string name="npm">Npm :</string>
+    <string name="read_more">Read More</string>
+    <string name="registrasi">Registrasi</string>
+</resources>
